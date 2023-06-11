@@ -1,7 +1,6 @@
-/*[![MasterHead](https://d2mk45aasx86xg.cloudfront.net/shutterstock_1209178567_17fafc5540.webp)](https://rishavchanda.io)*/
 <h1 align="center">Hi 👋, I'm Enwongo-Abasi Mfon Udomah (Promise)</h1>
 <h3 align="center">☕️🧑‍💻 Love to design Games and VR applications</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://d2mk45aasx86xg.cloudfront.net/shutterstock_1209178567_17fafc5540.webp)">
+<img align="right" alt="Coding" width="400" src="(https://d2mk45aasx86xg.cloudfront.net/shutterstock_1209178567_17fafc5540.webp)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=promiseudomah&label=Profile%20views&color=0e75b6&style=flat" alt="promiseudomah" /> </p>
 
