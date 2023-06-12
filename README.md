@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enwongo-Abasi Mfon Udomah (Promise)</h1>
 <h3 align="center">☕️🧑‍💻 Love to design Games and VR applications</h3>
-<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/05/34/20/99/360_F_534209989_cL7MgcSy9Nxjx83eonFSc3pdIbX51tSB.webp">
+<--! img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/05/34/20/99/360_F_534209989_cL7MgcSy9Nxjx83eonFSc3pdIbX51tSB.webp" -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=promiseudomah&label=Profile%20views&color=0e75b6&style=flat" alt="promiseudomah" /> </p>
 
