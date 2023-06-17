@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Unity Game Development**
 
-- 💬 Ask me about **unity, c#, gamedev**
+- 💬 Ask me about **unity, c#, game dev**
 
-- 📫 How to reach me **promyzy132@gmail.com**
+- 📫 How to reach me **promzy132@gmail.com**
 
-- ⚡ Fun fact **I'm too lazy to finish my porfolio, but I'ma do that soon**
+- ⚡ Fun fact **I'm too lazy to finish my portfolio, but I'ma do that soon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
