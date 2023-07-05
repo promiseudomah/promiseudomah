@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Enwongo-Abasi Mfon Udomah (Promise)</h1>
-<h3 align="center">☕️🧑‍💻 Love to design Games and VR applications</h3>
+<h1 align="center">Hi, I'm Enwongo-Abasi ☕️</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=promiseudomah&label=Profile%20views&color=0e75b6&style=flat" alt="promiseudomah" /> </p>
 
@@ -22,6 +21,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=promiseudomah&show_icons=true&locale=en&layout=compact" alt="promiseudomah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=promiseudomah&show_icons=true&locale=en" alt="promiseudomah" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=promiseudomah&" alt="promiseudomah" /></p>
