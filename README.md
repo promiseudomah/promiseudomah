@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact **I'm too lazy to finish my portfolio, but I'ma do that soon**
 
+- 🌐 **https://bento.me/promiseudomah**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pezi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pezi" height="30" width="40" /></a>
