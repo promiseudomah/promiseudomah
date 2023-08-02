@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Unity Game Development**
 
-- 💬 Ask me about **unity, c#, vr, game dev**
+- 💬 Ask me about **unity, c#, vr, game-dev**
 
 - 📫 How to reach me **promzy132@gmail.com**
 
