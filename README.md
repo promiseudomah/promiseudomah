@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Promise ☕️</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=promiseudomah&label=Profile%20views&color=0e75b6&style=flat" alt="promiseudomah" /> </p>
+- 🎓 CS
 
-- 🌱 I’m currently learning **Unity Game Development**
+- 🌱 **Unity** | **Game** | **Virtual Reality Developer** 🎮 
 
 - 💬 Ask me about **unity, c#, vr, game-dev**
 
