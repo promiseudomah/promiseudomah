@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Promise ☕️</h1>
 
-<p align="center">
-  <img src="https://creatorspace.imgix.net/users/clirmo9py0010ol01l3isqxk1/8WPGMA5rarsXMK2C-EA14A1FB-5A49-4908-84D2-CDF5C00E2BB0.jpeg?w=750&h=200" alt="Banner Image" width="100%" />
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=promiseudomah&label=Profile%20views&color=0e75b6&style=flat" alt="promiseudomah" /> </p>
 
 - 🎓 CS
