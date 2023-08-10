@@ -2,6 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=promiseudomah&label=Profile%20views&color=0e75b6&style=flat" alt="promiseudomah" /> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=promiseudomah&show_icons=true&locale=en" alt="promiseudomah" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=promiseudomah&" alt="promiseudomah" /></p>
+
 - 🎓 CS
 
 - 🌱 **Unity** | **Game** | **Virtual Reality Developer** 🎮 
