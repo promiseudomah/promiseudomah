@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **promzy132@gmail.com**
 
-- ⚡ Fun fact **I'm too lazy to finish my portfolio, but I'ma do that soon**
+- ⚡ Fun fact **I'm too lazy to finish my portfolio, but I'ma do that soon 👇**
 
 - 🌐 **https://bento.me/promiseudomah**
 
