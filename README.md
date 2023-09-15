@@ -1,7 +1,5 @@
 Hi, I'm Promise ☕️
-I'm a 21 year old developer based in Nigeria, and I'm passionate about crafting games & digital experiences.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=promiseudomah&label=Profile%20views&color=0e75b6&style=flat" alt="promiseudomah" /> </p>
+<p align="left"> I'm a 21 year old developer based in Nigeria, and I'm passionate about crafting games & digital experiences. </p>
 
 - 🎓 CS Graduate 
 
