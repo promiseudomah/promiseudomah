@@ -3,13 +3,11 @@
 
 - 🎓 CS Graduate 
 
-- 🌱 **Unity** | **Game** | **Virtual Reality Developer** 🎮 
+- 🌱 Unity | Game | Virtual Reality Developer 🎮 
 
-- 💬 Ask me about **unity, c#, virtual reality, game development**
+- 💬 Ask me about unity, c#, virtual reality, game development
 
-- 📫 How to reach me **promzy132@gmail.com**
-
-- ⚡ Fun fact **I'm too lazy to finish my portfolio, but I'ma do that soon 👇**
+- 📫 How to reach me promzy132@gmail.com
 
 - 🌐 **https://bento.me/promiseudomah**
 
