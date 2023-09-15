@@ -1,5 +1,5 @@
-Hi, I'm Promise ☕️
-<p align="left"> I'm a 21 year old developer based in Nigeria, and I'm passionate about crafting games & digital experiences. </p>
+<h3 align="left">Hi, I'm Promise ☕️</h3>
+<p align="left">I'm a 21 year old developer based in Nigeria, and I'm passionate about crafting games 🎮  & digital experiences ✨ </p>
 
 - 🎓 CS Graduate 
 
