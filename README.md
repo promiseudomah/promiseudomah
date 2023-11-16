@@ -3,7 +3,7 @@
 
 - 🎓 CS Graduate 
 
-- 🌱 Unity | Game | Virtual Reality Developer 🎮 
+- 🌱 Unity | Game | Virtual Reality Developer🎮 
 
 - 💬 Ask me about unity, c#, virtual reality, game development
 
