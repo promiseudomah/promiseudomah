@@ -5,7 +5,7 @@
 
 - 🌱 Unity | Game | Virtual Reality Developer🎮 
 
-- 💬 Ask me about unity, c#, virtual reality, game development.
+- 💬 Ask me about unity, c#, virtual reality, game development
 
 - 📫 How to reach me promzy132@gmail.com
 
