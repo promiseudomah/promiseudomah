@@ -1,5 +1,4 @@
 ### Hi there, I'm Enwongo-Abasi - [Promise][website] for short👋
-
 <br />
 
 ## I'm a Game and VR Developer!
@@ -31,8 +30,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>](https://github.com/)
 [<img align="left" alt="Oculus" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/oculus.svg"/>](https://oculus.com/)
 [<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg"/>](https://figma.com/)
-[<img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobexd.svg"/>](https://adobe.com/)
-[<img align="left" alt="Adobe Photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg"/>](https://adobe.com/)
+[<img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobexd.svg"/>]
+[<img align="left" alt="Adobe Photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg"/>]
 
 
 [website]: https://bento.me/promiseudomah
