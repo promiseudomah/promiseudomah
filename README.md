@@ -1,5 +1,4 @@
 ### Hi there, I'm Enwongo-Abasi - [Promise][website] for short👋
-<br />
 
 ## I'm a Game and VR Developer!
 
