@@ -3,7 +3,7 @@
 ## I'm a Game and VR Developer!
 
 - 🎓 CS Graduate
-- 🌱 I’m constantly learning Unity
+- 🌱 Always learning more about Unity
 - 📫 How to reach me: promzy132@gmail.com
 - 🥅 Contribute more to Open Source projects and evolve as a Game Developer
 - 💬 Let's talk about Unity, C#, VR, Game Development
